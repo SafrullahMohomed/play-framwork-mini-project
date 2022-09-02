@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/msmohamed/Desktop/first_sem(2)/SCS2204_Functional_Programming/assignments/play-samples-play-scala-hello-world-tutorial/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/home/msmohamed/Desktop/first_sem(2)/SCS2204_Functional_Programming/assignments/play-samples-play-scala-hello-world-tutorial/"), "root")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
